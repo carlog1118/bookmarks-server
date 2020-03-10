@@ -2,7 +2,7 @@ const app = require('./app')
 const { PORT } = require('./config')
 const { PORT, DB_URL } = require('./config')
 
-const db  = lmex({
+const db  = knex({
   client: 'pg',
   connection: DB_URL,
 })

@@ -7,3 +7,4 @@
 {"message":"Bookmark with id f7e9e675-0a2f-43ec-b00a-0ac9c172638d not found.","level":"error"}
 {"message":"Bookmark with id f7497901-1c29-4a2a-ae81-0e04e04fde00 not found.","level":"error"}
 {"message":"Bookmark with id 0b4debbf-40c3-49c2-818a-1482108baf72 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /","level":"error"}
